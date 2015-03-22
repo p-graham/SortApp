@@ -1,0 +1,2 @@
+This is a java app which presents an animated graphic panel representing a larg array of randomized numbers. The user may choose between quick, 
+bubble, shell, and insertion sorts and watch as they sort the array. Two sorts may be chosen and raced against eachother.
